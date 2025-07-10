@@ -1,2 +1,5 @@
-# new-ai-learn-hub
-An AI-Powered Personalized Learning &amp; Creation Hub.
+# AI-Learn-Hub
+
+My first full-stack project: An AI-Powered Personalized Learning & Creation Hub.
+
+This journey begins now! (July 10, 2025)
